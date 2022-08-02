@@ -1,5 +1,6 @@
 ### Hello World 👋
 Fala meu consagrado, bom proveito dos meu códigos.
+Ai em baixo tem uns inks de outras redes minhas, e mais tarde eu dou uma melhorada nesse reedme 
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcelo-sander-500b07170/)

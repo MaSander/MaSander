@@ -1,7 +1,10 @@
-### Hello World 👋
+### Hello by Sander 👋
+
 Fala meu consagrado, bom proveito dos meu códigos.
-Ai em baixo tem uns inks de outras redes minhas, e mais tarde eu dou uma melhorada nesse reedme 
+
+Sou desenvolvedor de software, com preferencia no backend
 <br>
+
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcelo-sander-500b07170/)
 
@@ -10,3 +13,21 @@ Ai em baixo tem uns inks de outras redes minhas, e mais tarde eu dou uma melhora
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://pt.stackoverflow.com/users/154473/marcelo-sander)
 
 [<img align="left" alt="Microsoft" src="https://img.shields.io/badge/microsoft-%231877F2.svg?&style=for-the-badge&logo=microsoft&color=00a4ef" />](https://docs.microsoft.com/pt-br/users/masander/)
+<br>
+
+<div>
+  <a href="https://github.com/MaSander">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masander&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masander&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Ariel-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Ariel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ariel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ariel-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Ariel-Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg">
+  <img align="center" alt="Ariel-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
+</div>

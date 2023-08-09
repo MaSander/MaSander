@@ -5,7 +5,7 @@ Speak my consecrated one, enjoy my codes.
 <br>
 
 <div style="display: inline_block"><br>
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,6 +26,8 @@ Speak my consecrated one, enjoy my codes.
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://pt.stackoverflow.com/users/154473/marcelo-sander)
 
 [<img align="left" alt="Microsoft" src="https://img.shields.io/badge/microsoft-%231877F2.svg?&style=for-the-badge&logo=microsoft&color=00a4ef" />](https://docs.microsoft.com/pt-br/users/masander/)
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=red" />](https://www.instagram.com/msander0055/)
 <br>
 
 <div>

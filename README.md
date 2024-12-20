@@ -1,7 +1,7 @@
 ### Hello by Sander 👋
 Fala meu consagrado, bom proveito dos meus códigos.
 <br>
-Speak my consecrated one, enjoy my codes.
+Hey my consecrated one, enjoy my codes.
 <br>
 
 <div style="display: inline_block"><br>

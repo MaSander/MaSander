@@ -1,5 +1,5 @@
 ### Hello by Sander 👋
-Fala meu consagrado, bom proveito dos meu códigos.
+Fala meu consagrado, bom proveito dos meus códigos.
 <br>
 Speak my consecrated one, enjoy my codes.
 <br>
